@@ -1,3 +1,12 @@
+# MODIFICACIONS
+
+- **S'han realitzat modificaciones per tal de que l'aplicació només contengui una versió funcional del recyclerview de superherois.**
+
+
+###### Eduardo Morell
+
+
+
 # ANDROID MASTER
 
 <p align="center">
